@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Abdelilah
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning the latest web technologies and frameworks
-- 💞️ I’m looking to collaborate on open-source projects and innovative web applications
-- 📫 How to reach me: abdelilah.freelance@gmail.com or linkedin.com/in/abdelilah-el-geunnouni/
-- 😄 Pronouns: He/Him
-⚡ Fun fact: I once coded a project entirely using just CSS Grid and Flexbox, and it turned out to be a fun challenge!
+# 👋 Hi, I’m Abdelilah El Guennouni
 
-<!---
-elguennouni-dev/elguennouni-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 **Passionate about Web Development**: I enjoy building modern, user-friendly web applications.  
+- 🌱 **Currently Exploring**: The latest web technologies and frameworks like **Angular**, **Java Spring Boot**, and advanced database design.  
+- 💡 **Open to Collaboration**: I’m eager to contribute to open-source projects and innovative ideas that make a difference.  
+- 📫 **Let’s Connect**: Reach me at **abdelilah.freelance@gmail.com** or on [LinkedIn](https://linkedin.com/in/abdelilah-el-geunnouni/).  
+- 😄 **Pronouns**: He/Him  
+- ⚡ **Fun Fact**: I once built a fully responsive project using only CSS Grid and Flexbox—it was both a challenge and a blast!  
+
+---
+
+💻 Check out my projects and feel free to reach out for collaborations or feedback. Let's build something amazing together!
