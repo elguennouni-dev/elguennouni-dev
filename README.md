@@ -1,4 +1,4 @@
-# Hello!, I'm Abdelilah EL-Guennouni 👋
+# Hello!, I'm Abdelilah EL-Guennouni
 
 ## ✅ Full-Stack Developer | Java & Angular
 
