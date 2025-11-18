@@ -1,23 +1,46 @@
-# Hello!, I'm Abdelilah EL-Guennouni
+# Hello! I'm Abdelilah EL-Guennouni
 
-## ✅ Full-Stack Developer | Java & Angular
+## Software Developer | Full-Stack Solutions & Business Applications
 
-**Follow to get New Updates**
+**Building scalable solutions that drive business value**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/abdelilah-el-geunnouni/)
+[![LinkedIn](https://img.shields.io/badge/Connect_With_Me-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abdelilah-el-geunnouni/)
 
-## 🛠 Languages & Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## What I Bring to the Table
+
+### Backend Development
+- **Enterprise Application Development**: Building robust, scalable backend systems
+- **RESTful API Design**: Creating clean, maintainable APIs for seamless integration
+- **System Architecture**: Designing solutions that scale with business needs
+- **Database Management**: Efficient data modeling and optimization
+- **Content Management Solutions**: Developing and customizing WordPress platforms for diverse business needs
+
+### Frontend Development
+- **User-Centric Interfaces**: Developing intuitive and responsive user experiences
+- **Interactive Applications**: Building dynamic web applications with modern frameworks
+- **Cross-Platform Solutions**: Ensuring consistent performance across devices
+- **Website Development**: Creating functional and engaging web presences
+
+### Full-Stack Capabilities
+- **End-to-End Web Solutions**: Delivering complete applications from concept to deployment
+- **Platform Customization**: Tailoring solutions to meet specific business requirements
+- **Performance Optimization**: Ensuring fast, reliable user experiences
+- **Maintenance & Enhancement**: Evolving applications to meet changing needs
+
+## Core Competencies
+
+| Area of Expertise | Key Strengths |
+|------------------|---------------|
+| **Full-Stack Development** | End-to-end solution delivery, seamless integration across technologies |
+| **Web Platform Development** | Building and customizing content management systems and business websites |
+| **Software Engineering** | Clean architecture, design patterns, best practices |
+| **Project Delivery** | Requirements analysis, timely execution, quality assurance |
+| **Technical Collaboration** | Code reviews, knowledge sharing, team mentorship |
+
+## Featured Projects
+
+Explore my repositories to see practical applications of these skills in real-world scenarios, including web development projects and business applications.
 
 ---
-⭐ **Don't forget to star my repositories!** ⭐
+
+**Open to new opportunities and collaborations**
