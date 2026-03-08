@@ -110,16 +110,6 @@ currently_learning: [CompTIA A+, IBM DB Administration, Azure AZ-900]
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elguennouni-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elguennouni-dev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
