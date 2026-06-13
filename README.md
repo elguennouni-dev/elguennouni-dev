@@ -1,17 +1,7 @@
 <div align="center">
-
-```
- █████╗ ██████╗ ██████╗ ███████╗██╗     ██╗██╗      █████╗ ██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██║     ██║██║     ██╔══██╗██║  ██║
-███████║██████╔╝██║  ██║█████╗  ██║     ██║██║     ███████║███████║
-██╔══██║██╔══██╗██║  ██║██╔══╝  ██║     ██║██║     ██╔══██║██╔══██║
-██║  ██║██████╔╝██████╔╝███████╗███████╗██║███████╗██║  ██║██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-                                                                   
-```
-
-# Abdelilah El-Guennouni
-### 🖥️ IT Technician · Support & Systems · Casablanca, Morocco
+ 
+# El-Guennouni Abdelilah
+### Technicien Supérieur en Développement des Systèmes d'Information · Casablanca, Morocco
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelilah-el-geunnouni)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://elguennouni-dev.github.io)
